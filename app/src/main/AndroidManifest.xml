@@ -17,7 +17,7 @@
         </activity>
         <meta-data
             android:name="io.fabric.ApiKey"
-            android:value="" />
+            android:value="64cfeb18420288a3fafc480c2b33a6895a9653c0" />
     </application>
 
     <uses-permission android:name="android.permission.INTERNET" />
